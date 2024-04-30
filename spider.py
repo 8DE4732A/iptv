@@ -117,7 +117,7 @@ def parse(address: str):
 def gen_m3u(group):
     with open(sys.path[0] + "/public/iptv.m3u", "w+", encoding='utf-8') as f:
         f.write('#EXTM3U\n')
-        f.write(f'#EXT-X-VERSION:{int(time.time())}\n')
+        f.write(f'#EXT-X-VERSION {int(time.time())}\n')
         f.write('\n')
         index = 1
         for (group_name, parse_result) in group.items():
