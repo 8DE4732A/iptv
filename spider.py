@@ -101,7 +101,6 @@ def parse(address: str):
     }
 
     r = requests.get(f'http://tonkiang.us/alllist.php?s={address}&c=false', cookies=cookies, headers=headers, verify=False)
-    # print(r.text)
     parse_result = []
     soup = BeautifulSoup(r.text, 'html.parser')
     for result in soup.select('div.result'):
@@ -115,7 +114,7 @@ def parse(address: str):
     return parse_result
     
 def gen_m3u(group):
-    with open(sys.path[0] + "/index.m3u", "w+", encoding='utf-8') as f:
+    with open(sys.path[0] + "/public/index.m3u", "w+", encoding='utf-8') as f:
         f.write('#EXTM3U\n')
         f.write('\n')
         index = 1
@@ -128,7 +127,6 @@ def gen_m3u(group):
 
 
 if __name__ == "__main__":
-    # parse("223.10.16.11:8085")
     result = {}
     ps = []
     parse_list = parse_list()
