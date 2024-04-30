@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION 1714483128
+#EXT-X-VERSION 1714490252
 
 #EXTINF:-1,tvg-id="3-CCTV1高清" tvg-name="3-CCTV1高清" group-title="223.10.12.188:8085",CCTV1高清
 http://223.10.12.188:8085/udp/239.1.1.7:8007
@@ -1411,6 +1411,86 @@ http://120.7.86.32:808/hls/48/index.m3u8
 http://120.7.86.32:808/hls/49/index.m3u8
 #EXTINF:-1,tvg-id="11-河北影视" tvg-name="11-河北影视" group-title="120.7.86.32:808",河北影视
 http://120.7.86.32:808/hls/52/index.m3u8
+#EXTINF:-1,tvg-id="13-CCTV1-综合" tvg-name="13-CCTV1-综合" group-title="221.234.25.122:9999",CCTV1-综合
+http://221.234.25.122:9999/tsfile/live/0001_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV2-财经" tvg-name="13-CCTV2-财经" group-title="221.234.25.122:9999",CCTV2-财经
+http://221.234.25.122:9999/tsfile/live/0002_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV3-综艺" tvg-name="13-CCTV3-综艺" group-title="221.234.25.122:9999",CCTV3-综艺
+http://221.234.25.122:9999/tsfile/live/0003_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV4-国际" tvg-name="13-CCTV4-国际" group-title="221.234.25.122:9999",CCTV4-国际
+http://221.234.25.122:9999/tsfile/live/0004_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV5-体育" tvg-name="13-CCTV5-体育" group-title="221.234.25.122:9999",CCTV5-体育
+http://221.234.25.122:9999/tsfile/live/0005_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV6-电影" tvg-name="13-CCTV6-电影" group-title="221.234.25.122:9999",CCTV6-电影
+http://221.234.25.122:9999/tsfile/live/0006_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV7-军农" tvg-name="13-CCTV7-军农" group-title="221.234.25.122:9999",CCTV7-军农
+http://221.234.25.122:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV8-电视剧" tvg-name="13-CCTV8-电视剧" group-title="221.234.25.122:9999",CCTV8-电视剧
+http://221.234.25.122:9999/tsfile/live/0008_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV9-纪录" tvg-name="13-CCTV9-纪录" group-title="221.234.25.122:9999",CCTV9-纪录
+http://221.234.25.122:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV10-科教" tvg-name="13-CCTV10-科教" group-title="221.234.25.122:9999",CCTV10-科教
+http://221.234.25.122:9999/tsfile/live/0010_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV11-戏曲" tvg-name="13-CCTV11-戏曲" group-title="221.234.25.122:9999",CCTV11-戏曲
+http://221.234.25.122:9999/tsfile/live/0011_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV12-社会与法" tvg-name="13-CCTV12-社会与法" group-title="221.234.25.122:9999",CCTV12-社会与法
+http://221.234.25.122:9999/tsfile/live/0012_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV13-新闻" tvg-name="13-CCTV13-新闻" group-title="221.234.25.122:9999",CCTV13-新闻
+http://221.234.25.122:9999/tsfile/live/0013_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV14-少儿" tvg-name="13-CCTV14-少儿" group-title="221.234.25.122:9999",CCTV14-少儿
+http://221.234.25.122:9999/tsfile/live/0014_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV15-音乐" tvg-name="13-CCTV15-音乐" group-title="221.234.25.122:9999",CCTV15-音乐
+http://221.234.25.122:9999/tsfile/live/0015_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV16" tvg-name="13-CCTV16" group-title="221.234.25.122:9999",CCTV16
+http://221.234.25.122:9999/tsfile/live/1006_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV17" tvg-name="13-CCTV17" group-title="221.234.25.122:9999",CCTV17
+http://221.234.25.122:9999/tsfile/live/0115_1.m3u8
+#EXTINF:-1,tvg-id="13-CCTV5+体育赛事" tvg-name="13-CCTV5+体育赛事" group-title="221.234.25.122:9999",CCTV5+体育赛事
+http://221.234.25.122:9999/tsfile/live/0119_1.m3u8
+#EXTINF:-1,tvg-id="13-CGTN" tvg-name="13-CGTN" group-title="221.234.25.122:9999",CGTN
+http://221.234.25.122:9999/tsfile/live/0128_2.m3u8
+#EXTINF:-1,tvg-id="13-湖北卫视" tvg-name="13-湖北卫视" group-title="221.234.25.122:9999",湖北卫视
+http://221.234.25.122:9999/tsfile/live/1002_1.m3u8
+#EXTINF:-1,tvg-id="13-湖北经视" tvg-name="13-湖北经视" group-title="221.234.25.122:9999",湖北经视
+http://221.234.25.122:9999/tsfile/live/1000_1.m3u8
+#EXTINF:-1,tvg-id="13-湖北电视台" tvg-name="13-湖北电视台" group-title="221.234.25.122:9999",湖北电视台
+http://221.234.25.122:9999/tsfile/live/1001_1.m3u8
+#EXTINF:-1,tvg-id="13-湖南卫视" tvg-name="13-湖南卫视" group-title="221.234.25.122:9999",湖南卫视
+http://221.234.25.122:9999/tsfile/live/0128_1.m3u8
+#EXTINF:-1,tvg-id="13-河南卫视" tvg-name="13-河南卫视" group-title="221.234.25.122:9999",河南卫视
+http://221.234.25.122:9999/tsfile/live/0124_1.m3u8
+#EXTINF:-1,tvg-id="13-江苏卫视" tvg-name="13-江苏卫视" group-title="221.234.25.122:9999",江苏卫视
+http://221.234.25.122:9999/tsfile/live/0139_1.m3u8
+#EXTINF:-1,tvg-id="13-东方卫视" tvg-name="13-东方卫视" group-title="221.234.25.122:9999",东方卫视
+http://221.234.25.122:9999/tsfile/live/0107_1.m3u8
+#EXTINF:-1,tvg-id="13-河北卫视" tvg-name="13-河北卫视" group-title="221.234.25.122:9999",河北卫视
+http://221.234.25.122:9999/tsfile/live/0122_1.m3u8
+#EXTINF:-1,tvg-id="13-广东卫视" tvg-name="13-广东卫视" group-title="221.234.25.122:9999",广东卫视
+http://221.234.25.122:9999/tsfile/live/0125_1.m3u8
+#EXTINF:-1,tvg-id="13-深圳卫视" tvg-name="13-深圳卫视" group-title="221.234.25.122:9999",深圳卫视
+http://221.234.25.122:9999/tsfile/live/0126_1.m3u8
+#EXTINF:-1,tvg-id="13-四川卫视" tvg-name="13-四川卫视" group-title="221.234.25.122:9999",四川卫视
+http://221.234.25.122:9999/tsfile/live/0123_1.m3u8
+#EXTINF:-1,tvg-id="13-天津卫视" tvg-name="13-天津卫视" group-title="221.234.25.122:9999",天津卫视
+http://221.234.25.122:9999/tsfile/live/0135_1.m3u8
+#EXTINF:-1,tvg-id="13-山东卫视" tvg-name="13-山东卫视" group-title="221.234.25.122:9999",山东卫视
+http://221.234.25.122:9999/tsfile/live/0118_1.m3u8
+#EXTINF:-1,tvg-id="13-安徽卫视" tvg-name="13-安徽卫视" group-title="221.234.25.122:9999",安徽卫视
+http://221.234.25.122:9999/tsfile/live/0130_1.m3u8
+#EXTINF:-1,tvg-id="13-辽宁卫视" tvg-name="13-辽宁卫视" group-title="221.234.25.122:9999",辽宁卫视
+http://221.234.25.122:9999/tsfile/live/0116_1.m3u8
+#EXTINF:-1,tvg-id="13-东南卫视" tvg-name="13-东南卫视" group-title="221.234.25.122:9999",东南卫视
+http://221.234.25.122:9999/tsfile/live/0137_1.m3u8
+#EXTINF:-1,tvg-id="13-江西卫视" tvg-name="13-江西卫视" group-title="221.234.25.122:9999",江西卫视
+http://221.234.25.122:9999/tsfile/live/0138_1.m3u8
+#EXTINF:-1,tvg-id="13-重庆卫视" tvg-name="13-重庆卫视" group-title="221.234.25.122:9999",重庆卫视
+http://221.234.25.122:9999/tsfile/live/0142_1.m3u8
+#EXTINF:-1,tvg-id="13-荆门新闻" tvg-name="13-荆门新闻" group-title="221.234.25.122:9999",荆门新闻
+http://221.234.25.122:9999/tsfile/live/1003_1.m3u8
+#EXTINF:-1,tvg-id="13-金鹰纪实" tvg-name="13-金鹰纪实" group-title="221.234.25.122:9999",金鹰纪实
+http://221.234.25.122:9999/tsfile/live/1004_1.m3u8
+#EXTINF:-1,tvg-id="13-荆门教育" tvg-name="13-荆门教育" group-title="221.234.25.122:9999",荆门教育
+http://221.234.25.122:9999/tsfile/live/1005_1.m3u8
 #EXTINF:-1,tvg-id="14-CCTV-1" tvg-name="14-CCTV-1" group-title="110.7.130.140:8096",CCTV-1
 http://110.7.130.140:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1,tvg-id="14-CCTV-2" tvg-name="14-CCTV-2" group-title="110.7.130.140:8096",CCTV-2
