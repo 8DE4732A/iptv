@@ -1,11 +1,11 @@
-name: cnbeta
+name: spider
 
 on:
   schedule:
     - cron: "* */3 * * *"
   push:
     branches:
-      - master
+      - main
 
 
 jobs:
