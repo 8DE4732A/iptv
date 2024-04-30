@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:1714445534
+#EXT-X-VERSION:1714445920
 
 #EXTINF:-1,tvg-id="3-CCTV1高清" tvg-name="3-CCTV1高清" group-title="223.10.12.188:8085",CCTV1高清
 http://223.10.12.188:8085/udp/239.1.1.7:8007
@@ -1147,86 +1147,6 @@ http://221.234.25.122:9999/tsfile/live/1003_1.m3u8
 http://221.234.25.122:9999/tsfile/live/1004_1.m3u8
 #EXTINF:-1,tvg-id="12-荆门教育" tvg-name="12-荆门教育" group-title="221.234.25.122:9999",荆门教育
 http://221.234.25.122:9999/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-1" tvg-name="13-CCTV-1" group-title="110.7.130.140:8096",CCTV-1
-http://110.7.130.140:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-2" tvg-name="13-CCTV-2" group-title="110.7.130.140:8096",CCTV-2
-http://110.7.130.140:8096/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-3" tvg-name="13-CCTV-3" group-title="110.7.130.140:8096",CCTV-3
-http://110.7.130.140:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-4" tvg-name="13-CCTV-4" group-title="110.7.130.140:8096",CCTV-4
-http://110.7.130.140:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-5" tvg-name="13-CCTV-5" group-title="110.7.130.140:8096",CCTV-5
-http://110.7.130.140:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV6-电影" tvg-name="13-CCTV6-电影" group-title="110.7.130.140:8096",CCTV6-电影
-http://110.7.130.140:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-7" tvg-name="13-CCTV-7" group-title="110.7.130.140:8096",CCTV-7
-http://110.7.130.140:8096/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-8" tvg-name="13-CCTV-8" group-title="110.7.130.140:8096",CCTV-8
-http://110.7.130.140:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV9-纪录" tvg-name="13-CCTV9-纪录" group-title="110.7.130.140:8096",CCTV9-纪录
-http://110.7.130.140:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-10" tvg-name="13-CCTV-10" group-title="110.7.130.140:8096",CCTV-10
-http://110.7.130.140:8096/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-11" tvg-name="13-CCTV-11" group-title="110.7.130.140:8096",CCTV-11
-http://110.7.130.140:8096/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-12" tvg-name="13-CCTV-12" group-title="110.7.130.140:8096",CCTV-12
-http://110.7.130.140:8096/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-13" tvg-name="13-CCTV-13" group-title="110.7.130.140:8096",CCTV-13
-http://110.7.130.140:8096/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-14" tvg-name="13-CCTV-14" group-title="110.7.130.140:8096",CCTV-14
-http://110.7.130.140:8096/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV-15" tvg-name="13-CCTV-15" group-title="110.7.130.140:8096",CCTV-15
-http://110.7.130.140:8096/tsfile/live/0014_2.m3u8
-#EXTINF:-1,tvg-id="13-内蒙古" tvg-name="13-内蒙古" group-title="110.7.130.140:8096",内蒙古
-http://110.7.130.140:8096/tsfile/live/0018_1.m3u8
-#EXTINF:-1,tvg-id="13-浙江卫视" tvg-name="13-浙江卫视" group-title="110.7.130.140:8096",浙江卫视
-http://110.7.130.140:8096/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="13-江苏卫视" tvg-name="13-江苏卫视" group-title="110.7.130.140:8096",江苏卫视
-http://110.7.130.140:8096/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="13-湖北卫视" tvg-name="13-湖北卫视" group-title="110.7.130.140:8096",湖北卫视
-http://110.7.130.140:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="13-广东卫视" tvg-name="13-广东卫视" group-title="110.7.130.140:8096",广东卫视
-http://110.7.130.140:8096/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="13-山西卫视" tvg-name="13-山西卫视" group-title="110.7.130.140:8096",山西卫视
-http://110.7.130.140:8096/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="13-贵州卫视" tvg-name="13-贵州卫视" group-title="110.7.130.140:8096",贵州卫视
-http://110.7.130.140:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="13-上海卫视" tvg-name="13-上海卫视" group-title="110.7.130.140:8096",上海卫视
-http://110.7.130.140:8096/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="13-辽宁卫视" tvg-name="13-辽宁卫视" group-title="110.7.130.140:8096",辽宁卫视
-http://110.7.130.140:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="13-山东卫视" tvg-name="13-山东卫视" group-title="110.7.130.140:8096",山东卫视
-http://110.7.130.140:8096/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="13-黑龙江卫视" tvg-name="13-黑龙江卫视" group-title="110.7.130.140:8096",黑龙江卫视
-http://110.7.130.140:8096/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="13-广西卫视" tvg-name="13-广西卫视" group-title="110.7.130.140:8096",广西卫视
-http://110.7.130.140:8096/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="13-兵团卫视" tvg-name="13-兵团卫视" group-title="110.7.130.140:8096",兵团卫视
-http://110.7.130.140:8096/tsfile/live/0115_1.m3u8
-#EXTINF:-1,tvg-id="13-安徽卫视" tvg-name="13-安徽卫视" group-title="110.7.130.140:8096",安徽卫视
-http://110.7.130.140:8096/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="13-北京卫视" tvg-name="13-北京卫视" group-title="110.7.130.140:8096",北京卫视
-http://110.7.130.140:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="13-东南卫视" tvg-name="13-东南卫视" group-title="110.7.130.140:8096",东南卫视
-http://110.7.130.140:8096/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="13-天津卫视" tvg-name="13-天津卫视" group-title="110.7.130.140:8096",天津卫视
-http://110.7.130.140:8096/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="13-湖南卫视" tvg-name="13-湖南卫视" group-title="110.7.130.140:8096",湖南卫视
-http://110.7.130.140:8096/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="13-四川卫视" tvg-name="13-四川卫视" group-title="110.7.130.140:8096",四川卫视
-http://110.7.130.140:8096/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="13-深圳卫视" tvg-name="13-深圳卫视" group-title="110.7.130.140:8096",深圳卫视
-http://110.7.130.140:8096/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="13-宁夏卫视" tvg-name="13-宁夏卫视" group-title="110.7.130.140:8096",宁夏卫视
-http://110.7.130.140:8096/tsfile/live/0112_1.m3u8
-#EXTINF:-1,tvg-id="13-云南卫视" tvg-name="13-云南卫视" group-title="110.7.130.140:8096",云南卫视
-http://110.7.130.140:8096/tsfile/live/0119_1.m3u8
-#EXTINF:-1,tvg-id="13-河南卫视" tvg-name="13-河南卫视" group-title="110.7.130.140:8096",河南卫视
-http://110.7.130.140:8096/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="13-江西卫视" tvg-name="13-江西卫视" group-title="110.7.130.140:8096",江西卫视
-http://110.7.130.140:8096/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="13-IPTV 6+" tvg-name="13-IPTV 6+" group-title="110.7.130.140:8096",IPTV 6+
-http://110.7.130.140:8096/tsfile/live/1010_1.m3u8
 #EXTINF:-1,tvg-id="14-CCTV-1" tvg-name="14-CCTV-1" group-title="121.24.99.40:8090",CCTV-1
 http://121.24.99.40:8090/hls/9/index.m3u8
 #EXTINF:-1,tvg-id="14-CCTV-2" tvg-name="14-CCTV-2" group-title="121.24.99.40:8090",CCTV-2
