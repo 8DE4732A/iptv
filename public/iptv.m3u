@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION 1714576847
+#EXT-X-VERSION 1714577634
 
 #EXTINF:-1,tvg-id="3-CCTV1高清" tvg-name="3-CCTV1高清" group-title="223.10.12.188:8085",CCTV1高清
 http://223.10.12.188:8085/udp/239.1.1.7:8007
@@ -1315,6 +1315,102 @@ http://183.191.209.209:8084/rtp/226.0.2.233:9776
 http://183.191.209.209:8084/rtp/226.0.2.234:9784
 #EXTINF:-1,tvg-id="8-CHC家庭影院" tvg-name="8-CHC家庭影院" group-title="183.191.209.209:8084",CHC家庭影院
 http://183.191.209.209:8084/rtp/226.0.2.240:9820
+#EXTINF:-1,tvg-id="11-CCTV1" tvg-name="11-CCTV1" group-title="120.7.86.32:808",CCTV1
+http://120.7.86.32:808/hls/1/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV2" tvg-name="11-CCTV2" group-title="120.7.86.32:808",CCTV2
+http://120.7.86.32:808/hls/2/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV3" tvg-name="11-CCTV3" group-title="120.7.86.32:808",CCTV3
+http://120.7.86.32:808/hls/3/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV4" tvg-name="11-CCTV4" group-title="120.7.86.32:808",CCTV4
+http://120.7.86.32:808/hls/4/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV5" tvg-name="11-CCTV5" group-title="120.7.86.32:808",CCTV5
+http://120.7.86.32:808/hls/5/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV6" tvg-name="11-CCTV6" group-title="120.7.86.32:808",CCTV6
+http://120.7.86.32:808/hls/6/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV7" tvg-name="11-CCTV7" group-title="120.7.86.32:808",CCTV7
+http://120.7.86.32:808/hls/7/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV8" tvg-name="11-CCTV8" group-title="120.7.86.32:808",CCTV8
+http://120.7.86.32:808/hls/8/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV9" tvg-name="11-CCTV9" group-title="120.7.86.32:808",CCTV9
+http://120.7.86.32:808/hls/9/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV10" tvg-name="11-CCTV10" group-title="120.7.86.32:808",CCTV10
+http://120.7.86.32:808/hls/10/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV11" tvg-name="11-CCTV11" group-title="120.7.86.32:808",CCTV11
+http://120.7.86.32:808/hls/11/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV12" tvg-name="11-CCTV12" group-title="120.7.86.32:808",CCTV12
+http://120.7.86.32:808/hls/12/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV13" tvg-name="11-CCTV13" group-title="120.7.86.32:808",CCTV13
+http://120.7.86.32:808/hls/13/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV14" tvg-name="11-CCTV14" group-title="120.7.86.32:808",CCTV14
+http://120.7.86.32:808/hls/14/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV15" tvg-name="11-CCTV15" group-title="120.7.86.32:808",CCTV15
+http://120.7.86.32:808/hls/15/index.m3u8
+#EXTINF:-1,tvg-id="11-CCTV5+" tvg-name="11-CCTV5+" group-title="120.7.86.32:808",CCTV5+
+http://120.7.86.32:808/hls/16/index.m3u8
+#EXTINF:-1,tvg-id="11-河北卫视" tvg-name="11-河北卫视" group-title="120.7.86.32:808",河北卫视
+http://120.7.86.32:808/hls/17/index.m3u8
+#EXTINF:-1,tvg-id="11-湖南卫视" tvg-name="11-湖南卫视" group-title="120.7.86.32:808",湖南卫视
+http://120.7.86.32:808/hls/18/index.m3u8
+#EXTINF:-1,tvg-id="11-江苏卫视" tvg-name="11-江苏卫视" group-title="120.7.86.32:808",江苏卫视
+http://120.7.86.32:808/hls/19/index.m3u8
+#EXTINF:-1,tvg-id="11-天津卫视" tvg-name="11-天津卫视" group-title="120.7.86.32:808",天津卫视
+http://120.7.86.32:808/hls/20/index.m3u8
+#EXTINF:-1,tvg-id="11-深圳卫视" tvg-name="11-深圳卫视" group-title="120.7.86.32:808",深圳卫视
+http://120.7.86.32:808/hls/21/index.m3u8
+#EXTINF:-1,tvg-id="11-山东卫视" tvg-name="11-山东卫视" group-title="120.7.86.32:808",山东卫视
+http://120.7.86.32:808/hls/22/index.m3u8
+#EXTINF:-1,tvg-id="11-广东卫视" tvg-name="11-广东卫视" group-title="120.7.86.32:808",广东卫视
+http://120.7.86.32:808/hls/23/index.m3u8
+#EXTINF:-1,tvg-id="11-北京卫视" tvg-name="11-北京卫视" group-title="120.7.86.32:808",北京卫视
+http://120.7.86.32:808/hls/24/index.m3u8
+#EXTINF:-1,tvg-id="11-东方卫视" tvg-name="11-东方卫视" group-title="120.7.86.32:808",东方卫视
+http://120.7.86.32:808/hls/25/index.m3u8
+#EXTINF:-1,tvg-id="11-黑龙江卫视" tvg-name="11-黑龙江卫视" group-title="120.7.86.32:808",黑龙江卫视
+http://120.7.86.32:808/hls/26/index.m3u8
+#EXTINF:-1,tvg-id="11-浙江卫视" tvg-name="11-浙江卫视" group-title="120.7.86.32:808",浙江卫视
+http://120.7.86.32:808/hls/27/index.m3u8
+#EXTINF:-1,tvg-id="11-安徽卫视" tvg-name="11-安徽卫视" group-title="120.7.86.32:808",安徽卫视
+http://120.7.86.32:808/hls/28/index.m3u8
+#EXTINF:-1,tvg-id="11-湖北卫视" tvg-name="11-湖北卫视" group-title="120.7.86.32:808",湖北卫视
+http://120.7.86.32:808/hls/29/index.m3u8
+#EXTINF:-1,tvg-id="11-四川卫视" tvg-name="11-四川卫视" group-title="120.7.86.32:808",四川卫视
+http://120.7.86.32:808/hls/30/index.m3u8
+#EXTINF:-1,tvg-id="11-重庆卫视" tvg-name="11-重庆卫视" group-title="120.7.86.32:808",重庆卫视
+http://120.7.86.32:808/hls/31/index.m3u8
+#EXTINF:-1,tvg-id="11-东南卫视" tvg-name="11-东南卫视" group-title="120.7.86.32:808",东南卫视
+http://120.7.86.32:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="11-广西卫视" tvg-name="11-广西卫视" group-title="120.7.86.32:808",广西卫视
+http://120.7.86.32:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="11-吉林卫视" tvg-name="11-吉林卫视" group-title="120.7.86.32:808",吉林卫视
+http://120.7.86.32:808/hls/34/index.m3u8
+#EXTINF:-1,tvg-id="11-陕西卫视" tvg-name="11-陕西卫视" group-title="120.7.86.32:808",陕西卫视
+http://120.7.86.32:808/hls/35/index.m3u8
+#EXTINF:-1,tvg-id="11-山西卫视" tvg-name="11-山西卫视" group-title="120.7.86.32:808",山西卫视
+http://120.7.86.32:808/hls/36/index.m3u8
+#EXTINF:-1,tvg-id="11-内蒙古卫视" tvg-name="11-内蒙古卫视" group-title="120.7.86.32:808",内蒙古卫视
+http://120.7.86.32:808/hls/37/index.m3u8
+#EXTINF:-1,tvg-id="11-青海卫视" tvg-name="11-青海卫视" group-title="120.7.86.32:808",青海卫视
+http://120.7.86.32:808/hls/38/index.m3u8
+#EXTINF:-1,tvg-id="11-宁夏卫视" tvg-name="11-宁夏卫视" group-title="120.7.86.32:808",宁夏卫视
+http://120.7.86.32:808/hls/39/index.m3u8
+#EXTINF:-1,tvg-id="11-西藏卫视" tvg-name="11-西藏卫视" group-title="120.7.86.32:808",西藏卫视
+http://120.7.86.32:808/hls/40/index.m3u8
+#EXTINF:-1,tvg-id="11-新疆卫视" tvg-name="11-新疆卫视" group-title="120.7.86.32:808",新疆卫视
+http://120.7.86.32:808/hls/41/index.m3u8
+#EXTINF:-1,tvg-id="11-甘肃卫视" tvg-name="11-甘肃卫视" group-title="120.7.86.32:808",甘肃卫视
+http://120.7.86.32:808/hls/42/index.m3u8
+#EXTINF:-1,tvg-id="11-河南卫视" tvg-name="11-河南卫视" group-title="120.7.86.32:808",河南卫视
+http://120.7.86.32:808/hls/43/index.m3u8
+#EXTINF:-1,tvg-id="11-贵州卫视" tvg-name="11-贵州卫视" group-title="120.7.86.32:808",贵州卫视
+http://120.7.86.32:808/hls/44/index.m3u8
+#EXTINF:-1,tvg-id="11-云南卫视" tvg-name="11-云南卫视" group-title="120.7.86.32:808",云南卫视
+http://120.7.86.32:808/hls/45/index.m3u8
+#EXTINF:-1,tvg-id="11-辽宁卫视" tvg-name="11-辽宁卫视" group-title="120.7.86.32:808",辽宁卫视
+http://120.7.86.32:808/hls/48/index.m3u8
+#EXTINF:-1,tvg-id="11-浙江卫视" tvg-name="11-浙江卫视" group-title="120.7.86.32:808",浙江卫视
+http://120.7.86.32:808/hls/49/index.m3u8
+#EXTINF:-1,tvg-id="11-河北影视" tvg-name="11-河北影视" group-title="120.7.86.32:808",河北影视
+http://120.7.86.32:808/hls/52/index.m3u8
 #EXTINF:-1,tvg-id="13-CCTV1-综合" tvg-name="13-CCTV1-综合" group-title="221.234.25.122:9999",CCTV1-综合
 http://221.234.25.122:9999/tsfile/live/0001_1.m3u8
 #EXTINF:-1,tvg-id="13-CCTV2-财经" tvg-name="13-CCTV2-财经" group-title="221.234.25.122:9999",CCTV2-财经
